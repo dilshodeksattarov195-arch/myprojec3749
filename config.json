@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasevetch",
+        "uuid": 1529592,
+        "checksum": "5rt9q"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "production"
+    }
+}
